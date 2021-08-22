@@ -1,0 +1,114 @@
+@media (min-width:0px) and (max-width:991px){
+    .navbar-nav{
+      text-align: center;
+    }
+    .nav-link {
+      display: inline-block;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      margin-right: 0px;
+  }
+  .navbar-light .navbar-brand {
+    width: 40%;
+  }
+  .navbar-light .navbar-toggler {
+    color: transparent;
+  }
+  
+  .btn-signin {
+   
+    padding: 7px 22px;
+  
+  }
+  .spacing {
+    padding: 100px 0;
+    text-align: center;
+  }
+  .btn-started {
+    margin-bottom: 42px;
+  }
+  .feature {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #F8FFFB;
+    margin-bottom: 15px;
+  }
+  .course {
+    text-align: center;
+  }
+  .clint{
+    border-radius: 100%;
+    width: 38%;
+    text-align: center;
+    transform: translate(-86%);
+   
+  }
+  .testimonial p {
+    margin-top: 31px;
+    text-align: center;
+  }
+  footer {
+    text-align: center;
+  }
+  footer ul {
+    margin: 10px;
+  
+    }
+  }
+  @media (min-width:0px) and (max-width:320px){
+    .clint {
+        width: 90%;
+        text-align: center;
+        margin-top: 35px;
+        transform: translate(-38%);
+      }
+      .clint img {
+        margin-top:-120px;
+        width:60%;
+  }
+   }
+   @media (max-width:320px){
+    
+   }
+  
+  
+   @media (min-width:321px) and (max-width:375px){
+   
+  
+   }
+   @media (min-width:376px) and (max-width:425px){
+  
+   }
+   
+   @media (min-width:426px) and (max-width:768px){
+    .clint img {
+        margin-top:-120px;
+  }
+  .heading h1{
+      margin-top:20px;
+  }
+  .clint {
+    width: 90%;
+    text-align: center;
+    margin-top: 35px;
+    transform: translate(-38%);
+  }
+    
+  }
+  @media (min-width:789px) and (max-width:1024px){
+    .clint img {
+    
+      margin-top:-120px;
+  }
+  .course {
+    text-align: center;
+  }
+  .clint {
+    width: 66%;
+    text-align: center;
+    transform: translate(-38%);
+  }
+  }
+  @media (min-width:1440px){
+   
+  }
